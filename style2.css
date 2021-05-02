@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: gold;
+    padding: 10px;
+}
+
+img {
+    height: 200px;
+}
+
+p, ul {
+    font-size: 20px;
+    list-style: url("https://learn.algoritmika.org/uploads/2021/04/favicon-16x16_1618742377.png");
+background-color: gold;
+
+}
+h2 {
+    background-color: black;
+    color:gold;
+}
+
+header {
+    background-color: black;
+    padding: 20px;
+    color: gold;
+}
+header a {
+    color: white;
+    background-color: gold;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+    color: black;
+}
+header img {
+  height: 100px;
+  width: 100px;
+}
+footer {
+ background-color: black;
+padding: 20px;
+color: gold;
+}
+footer a {
+     color: white;
+    background-color: gold;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+    color: black
+}
